@@ -1,0 +1,58 @@
+{
+    "images": [
+        {
+            "imageId": "1",
+            "title": "T-shirt",
+            "imageSrc": "images/t-shirt5.png",
+            "price": "$25"
+        },
+        {
+            "imageId": "2",
+            "title": "Bag Pack",
+            "imageSrc": "images/backpack2.jpg",
+            "price": "$30"
+        },
+        {
+            "imageId": "3",
+            "title": "Water Bottle",
+            "imageSrc": "images/waterbottle.jpg",
+            "price": "$15"
+        },
+        {
+            "imageId": "4",
+            "title": "Crewneck",
+            "imageSrc": "images/crewneck.jpg",
+            "price": "$30"
+        },
+        {
+            "imageId": "5",
+            "title": "Pull Over Hoodie",
+            "imageSrc": "images/hoodie1.jpg",
+            "price": "$35"
+        },
+        {
+            "imageId": "6",
+            "title": "Pull Over Hoodie",
+            "imageSrc": "images/hoodie2.jpg",
+            "price": "$35"
+        },
+        {
+            "imageId": "7",
+            "title": "Hat",
+            "imageSrc": "images/hat1.jpg",
+            "price": "$15"
+        },
+        {
+            "imageId": "8",
+            "title": "Hat",
+            "imageSrc": "images/hat2.jpg",
+            "price": "$15"
+        },
+        {
+            "imageId": "9",
+            "title": "Bag Pack",
+            "imageSrc": "images/backpack1.jpg",
+            "price": "$15"
+        }
+    ]
+}
